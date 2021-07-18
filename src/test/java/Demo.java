@@ -6,11 +6,19 @@ public class Demo {
 		
 		demotcone();
 		demotctwo();
-		
+		demotcthree();
 	}
 	
 	
 	
+	private static void demotcthree() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("I am demotcthree");
+	}
+
+
+
 	public static  void demotcone() {
 		// TODO Auto-generated method stub
 		

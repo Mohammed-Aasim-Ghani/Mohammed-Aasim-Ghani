@@ -6,7 +6,15 @@ public class Selenium {
 		
 		seleniumone();
 		seleniumtwo();
+		seleniumthree();
 
+	}
+	
+	private static void seleniumthree() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("I am seleniumthree");
+		
 	}
 
 	private static void seleniumtwo() {
